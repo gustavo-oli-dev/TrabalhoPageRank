@@ -1,6 +1,6 @@
-// arquivo principal: node main.js
+// arquivo principal: node trabalhoPageRank/main.js
 // as matrizes de adjacencia das questoes e exemplos do livro
-const Matrix = require("./Matrix");
+const Matrix = require("../biblioteca/Matrix").Matrix;
 const pageRank = require("./PageRank");
 
 // questoes da pagina 501

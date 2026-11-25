@@ -1,5 +1,5 @@
 // PageRank - Algebra Linear com Aplicacoes (Anton e Rorres), secao 9.3
-const LinearAlgebra = require("./LinearAlgebra");
+const LinearAlgebra = require("../biblioteca/LinearAlgebra");
 
 const la = new LinearAlgebra();
 
